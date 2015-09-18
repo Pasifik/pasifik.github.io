@@ -1,3 +1,2 @@
 # pasifik.github.io
-açıklamaalanu
-fg
+Açıklama alanı
